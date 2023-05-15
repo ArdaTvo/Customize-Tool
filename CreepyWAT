@@ -1,0 +1,17 @@
+@echo off
+title CreepyWAT
+
+Echo. Hi Hi Hi!
+ping 192.0.2.2 -n 1 -w 03000 > nul
+Echo. Lets Play An Game.
+ping 192.0.2.2 -n 1 -w 03000 > nul
+Echo. Are you ready for join it?
+
+pause
+
+:GAME
+@echo off
+title CreepyWAT
+Echo. Game started.
+Echo. Use your computer. And minimize this program to taskbar.
+
